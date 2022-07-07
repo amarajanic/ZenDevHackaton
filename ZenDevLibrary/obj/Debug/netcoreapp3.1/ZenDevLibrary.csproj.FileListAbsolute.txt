@@ -1,0 +1,13 @@
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\bin\Debug\netcoreapp3.1\ZenDevLibrary.deps.json
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\bin\Debug\netcoreapp3.1\ZenDevLibrary.runtimeconfig.json
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\bin\Debug\netcoreapp3.1\ZenDevLibrary.runtimeconfig.dev.json
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\bin\Debug\netcoreapp3.1\ZenDevLibrary.dll
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\bin\Debug\netcoreapp3.1\ZenDevLibrary.pdb
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.AssemblyInfoInputs.cache
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.AssemblyInfo.cs
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.dll
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.pdb
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.genruntimeconfig.cache
+C:\Users\ajke\Desktop\paralelopitedi-backend\ZenDevAPIApp\ZenDevLibrary\obj\Debug\netcoreapp3.1\ZenDevLibrary.csproj.AssemblyReference.cache
