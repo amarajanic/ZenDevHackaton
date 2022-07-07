@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ajke\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ajke\\.nuget\\packages"
+    ]
+  }
+}
